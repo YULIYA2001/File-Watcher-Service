@@ -1,0 +1,174 @@
+﻿Выполняется установка сборки 'C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+   logfile = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+Устанавливается служба Lab3MyService...
+Служба Lab3MyService успешно установлена.
+Создается исходный EventLog Lab3MyService в журнале Application...
+Выполняется фиксация сборки 'C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+   logfile = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+Выполняется удаление сборки 'C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+   logfile = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+Выполняется удаление источника EventLog Lab3MyService.
+Выполняется удаление службы Lab3MyService из системы...
+Служба Lab3MyService успешно удалена из системы.
+Выполняется установка сборки 'C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+   logfile = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+Устанавливается служба Lab3MyService...
+Служба Lab3MyService успешно установлена.
+Создается исходный EventLog Lab3MyService в журнале Application...
+Выполняется фиксация сборки 'C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+   logfile = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+Выполняется удаление сборки 'C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+   logfile = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+Выполняется удаление источника EventLog Lab3MyService.
+Выполняется удаление службы Lab3MyService из системы...
+Служба Lab3MyService успешно удалена из системы.
+Выполняется установка сборки 'C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+   logfile = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+Устанавливается служба Lab3MyService...
+Служба Lab3MyService успешно установлена.
+Создается исходный EventLog Lab3MyService в журнале Application...
+Выполняется фиксация сборки 'C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+   logfile = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+Выполняется установка сборки 'C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+   logfile = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+Устанавливается служба Lab3MyService...
+Создается исходный EventLog Lab3MyService в журнале Application...
+Выполняется откат для сборки 'C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+   logfile = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+Восстанавливается исходное состояние журнала событий для источника Lab3MyService.
+Выполняется удаление сборки 'C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+   logfile = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+Выполняется удаление источника EventLog Lab3MyService.
+Выполняется удаление службы Lab3MyService из системы...
+Служба Lab3MyService успешно удалена из системы.
+Попытка останова службы Lab3MyService.
+Выполняется установка сборки 'C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+   logfile = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+Устанавливается служба Lab3FileWatcherService...
+Служба Lab3FileWatcherService успешно установлена.
+Создается исходный EventLog Lab3FileWatcherService в журнале Application...
+Выполняется фиксация сборки 'C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+   logfile = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+Выполняется удаление сборки 'C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+   logfile = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+Выполняется удаление источника EventLog Lab3FileWatcherService.
+Выполняется удаление службы Lab3FileWatcherService из системы...
+Служба Lab3FileWatcherService успешно удалена из системы.
+Выполняется установка сборки 'C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+   logfile = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+Устанавливается служба Lab3FileWatcherService...
+Служба Lab3FileWatcherService успешно установлена.
+Создается исходный EventLog Lab3FileWatcherService в журнале Application...
+Выполняется фиксация сборки 'C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+   logfile = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+Выполняется удаление сборки 'C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+   logfile = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+Выполняется удаление источника EventLog Lab3FileWatcherService.
+Выполняется удаление службы Lab3FileWatcherService из системы...
+Служба Lab3FileWatcherService успешно удалена из системы.
+Выполняется установка сборки 'C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+   logfile = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+Устанавливается служба Lab3FileWatcherService...
+Служба Lab3FileWatcherService успешно установлена.
+Создается исходный EventLog Lab3FileWatcherService в журнале Application...
+Выполняется фиксация сборки 'C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+   logfile = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+Выполняется удаление сборки 'C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+   logfile = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+Выполняется удаление источника EventLog Lab3FileWatcherService.
+Выполняется удаление службы Lab3FileWatcherService из системы...
+Служба Lab3FileWatcherService успешно удалена из системы.
+Выполняется установка сборки 'C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+   logfile = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+Устанавливается служба Lab3FileWatcherService...
+Служба Lab3FileWatcherService успешно установлена.
+Создается исходный EventLog Lab3FileWatcherService в журнале Application...
+Выполняется фиксация сборки 'C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+   logfile = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+Выполняется удаление сборки 'C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+   logfile = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+Выполняется удаление источника EventLog Lab3FileWatcherService.
+Выполняется удаление службы Lab3FileWatcherService из системы...
+Служба Lab3FileWatcherService успешно удалена из системы.
+Выполняется установка сборки 'C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+   logfile = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+Устанавливается служба Lab3FileWatcherService...
+Служба Lab3FileWatcherService успешно установлена.
+Создается исходный EventLog Lab3FileWatcherService в журнале Application...
+Выполняется фиксация сборки 'C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+   logfile = C:\YCHEBA\ИСП\Lab3\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog

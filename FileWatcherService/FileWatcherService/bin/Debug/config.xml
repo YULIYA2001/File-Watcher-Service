@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<settings>
+    <sourceDirectoryPath>C:\\LAB3\\SourceDirectory</sourceDirectoryPath>
+    <targetDirectoryPath>C:\\LAB3\\TargetDirectory</targetDirectoryPath>
+    <targetArchivePath>C:\\LAB3\\TargetDirectory\\archive</targetArchivePath>
+    <key>15</key>
+</settings>
